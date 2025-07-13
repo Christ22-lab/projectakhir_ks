@@ -1,0 +1,13 @@
+name: Proyek-Akhir_Dashboard-Analisis
+title: Proyek-Akhir_Dashboard-Analisis
+username: 222313195-mario-hoki
+account: 222313195-mario-hoki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15069112
+bundleId: 10608688
+url: https://2ks2-kelompok-6.shinyapps.io/Proyek-Akhir_Dashboard-Analisis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2KS2_Kelompok6_ProyekAkhir.R|2KS2_Kelompok6_ProyekAkhir.Rmd
